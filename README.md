@@ -4,7 +4,7 @@
 </div>  
   
 
-### <div align="center">I'm Oliver, a student in HCMUTE (University of Technology and education) 👨‍💻 studying Computer Engineering  🚀. My interest area is Autonomous car 🚗🏎️🚛.</div>  
+### <div align="center">I'm Oliver, a student in HCMUTE (University of Technology and education) 👨‍💻 studying Computer Engineering  🚀. My interesting area is Autonomous car 🚗🏎️🚛.</div>  
   
 
 -  🦸‍♂️ I’m currently learning Computer Engineering at HCMUTE  
