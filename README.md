@@ -1,6 +1,6 @@
 ### Hi, I'am Phan Thanh Danh (Oliver).  
 <div align="center">
-<img src="https://media4.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" align="center" style="width: 100%" />
+<img src="https://media4.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" align="center" style="width: 100%" />
 </div>  
   
 
