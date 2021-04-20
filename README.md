@@ -20,11 +20,10 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="80%">
 
 
 
-</td><td valign="top" width="33%">
 
 
 
@@ -41,7 +40,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+
 
 
 
