@@ -74,7 +74,7 @@ Previously studied at **Ho Chi Minh City University of Technology and Education 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@chungbuk.ac.kr)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sites.google.com/view/phanthanhdanh)
 
-**Chungbuk National University** | Computer Vision & Robotics Lab  
+**Chungbuk National University** | Intelligent Robots Lab  
 📧 Email verified at chungbuk.ac.kr
 
 </div>
