@@ -8,7 +8,7 @@
 
 ## 👨‍🎓 About Me
 
-I'm a **Computer Engineering graduate student** at **Chungbuk National University** (South Korea) and researcher specializing in **Autonomous Vehicles**, **Computer Vision**, and **Robotics**. My research focuses on vision-based perception systems, sensor fusion, and deep reinforcement learning for autonomous navigation.
+I'm a graduate student in **Robotics and Intelligent Systems** at **Chungbuk National University** (South Korea) and a researcher specializing in **Autonomous Vehicles**, **Computer Vision**, and **Robotics**. My research focuses on vision-based perception systems, sensor fusion, and deep reinforcement learning for autonomous navigation.
 
 Previously studied at **Ho Chi Minh City University of Technology and Education (HCMUTE)**, where I was an active member of the **ISLab** research group.
 
