@@ -64,28 +64,6 @@ Previously studied at **Ho Chi Minh City University of Technology and Education 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
----
-
-## 🔬 Research Areas
-
-```mermaid
-mindmap
-  root((Autonomous Vehicles))
-    Perception
-      Computer Vision
-      Sensor Fusion
-      Object Detection
-    Planning
-      Path Planning
-      Deep RL
-      Local Navigation
-    Mapping
-      SLAM
-      Visual Odometry
-      3D Reconstruction
-```
-
----
 
 ## 📫 Connect With Me
 
@@ -117,7 +95,7 @@ mindmap
 
 <div align="center">
 
-### 💡 *"Building intelligent systems for a safer autonomous future"*
+### 💡 *"Make the robot more intelligent"*
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
 
