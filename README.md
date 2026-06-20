@@ -8,7 +8,7 @@
 
 ## 👨‍🎓 About Me
 
-I'm a graduate student in **Robotics and Intelligent Systems** at **Chungbuk National University** (South Korea) and a researcher specializing in **Robot Perception** and **Robotics**. My research focuses on vision-based perception systems, sensor fusion, and navigation.
+I'm a graduate student in **Robotics and Intelligent Systems** at **Chungbuk National University** (South Korea) and a researcher specializing in **Robot Perception**. My research focuses on vision-based perception systems, sensor fusion, and navigation.
 
 Previously studied at **Ho Chi Minh City University of Technology and Education (HCMUTE)**, where I was an active member of the **ISLab** research group.
 
