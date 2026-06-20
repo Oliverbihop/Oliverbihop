@@ -21,48 +21,8 @@ Previously studied at **Ho Chi Minh City University of Technology and Education 
 
 ---
 
-## 📚 Recent Publications
 
-### 2025
 
-**Vision-Based Perception for Autonomous Vehicles in Obstacle Avoidance Scenarios**  
-*CT Nguyen, DT Au, TD Phan, MT Duong, MH Le*  
-📖 2025 17th International Conference on Human System Interaction (HSI), 1-7  
-🔗 [arXiv:2507.12449](https://arxiv.org/abs/2507.12449)
-
-**FusionGS-SLAM: Multiple Sensors Fusion for Localization and Real-Time Photorealistic Mapping**  
-*TD Phan, GW Kim*  
-📖 IEEE Robotics and Automation Letters, 2025
-
-**Toward Specialized Learning-based Approaches for Visual Odometry: A Comprehensive Survey**  
-*TD Phan, GW Kim*  
-📖 Journal of Intelligent & Robotic Systems 111 (2), 1-32, 2025
-
-**Perception and Deep Reinforcement Learning-Based Local Path Planner for Autonomous Vehicles**  
-*TD Phan, GW Kim*  
-📖 Journal of Korea Robotics Society 20 (2), 285-292, 2025
-
----
-
-## 🛠️ Technical Skills
-
-### Programming & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-### Frameworks & Libraries
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-### Hardware
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 
 ## 📫 Connect With Me
