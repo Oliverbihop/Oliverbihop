@@ -13,7 +13,7 @@ I'm a graduate student in **Robotics and Intelligent Systems** at **Chungbuk Nat
 Previously studied at **Ho Chi Minh City University of Technology and Education (HCMUTE)**, where I was an active member of the **ISLab** research group.
 
 ### 🎯 Research Interests
-- **3D Understanding**: Map Construction, Map Understanding, Concept Map.
+- **3D Understanding**: Map Construction, Map Understanding.
 - **Deep Learning**: Reinforcement learning, VLA, etc
 
 ---
